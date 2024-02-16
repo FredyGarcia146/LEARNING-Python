@@ -1,0 +1,3 @@
+1|Toyota|MT45|Peru-8373|2008
+2|Mitsubishi|Y6-DD|Peru-0988|2016
+3|Lamborguini|Plus-Gold|Sudafrica-9768|2022
